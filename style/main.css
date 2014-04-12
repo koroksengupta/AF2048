@@ -330,7 +330,7 @@ hr {
     /*background: #f59563; */}
   .tile.tile-32 .tile-inner {
     /*color: #f9f6f2*/;
-    background: url('../images/af/dany.jpg');
+    background: url('../images/af/justy.JPG');
     /*background: #f67c5f;*/ }
   .tile.tile-64 .tile-inner {
     /*color: #f9f6f2;*/
@@ -365,7 +365,7 @@ hr {
         /*font-size: 25px;*/ } }
   .tile.tile-1024 .tile-inner {
     /*color: #f9f6f2;*/
-    background: url('../images/af/justy.jpg');
+    background: url('../images/af/dany.jpg');
     /*background: #edc53f;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px;*/ }
